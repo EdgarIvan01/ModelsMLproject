@@ -1,12 +1,12 @@
-# Predicción de Pokémon de Primera Generación
+# First Generation Pokémon Prediction
 
-Este proyecto tiene como objetivo predecir si un Pokémon pertenece a la primera generación utilizando diferentes modelos de machine learning. Se realiza una limpieza exhaustiva de los datos y se implementan tres modelos: regresión logística, Naive Bayes y árboles de decisión.
+This project aims to predict whether a Pokémon belongs to the first generation using different machine learning models. A thorough data cleaning is performed and three models are implemented: logistic regression, Naive Bayes, and decision trees.
 
-## Tabla de Contenidos
+## Table of Contents
 
-- [Instalación]
-- [Uso]
-- [Estructura del Proyecto]
-- [Limpieza de Datos]
-- [Modelos de Machine Learning]
-- [Resultados]
+- [Installation]
+- [Usage]
+- [Project Structure]
+- [Data Cleaning]
+- [Machine Learning Models]
+- [Results]
